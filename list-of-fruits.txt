@@ -3,3 +3,4 @@
 3. Banana
 4. Blueberry
 5. Watermelon
+6. Pineapple
