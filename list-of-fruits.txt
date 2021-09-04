@@ -1,6 +1,6 @@
-1. Apple
 2. Orange
 3. Banana
-4. Blueberry
-5. Watermelon
 6. Pineapple
+1. Apple
+5. Watermelon
+4. Blueberry
